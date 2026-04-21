@@ -1,7 +1,5 @@
 nama_event,cabang_olahraga,lokasi,tahun
-Q136036509,sailing,France,2026
 2026 European Rowing Championships,rowing,Italy,2026
-Q136649791,speed skiing,France,2026
 2025–26 Biathlon World Cup – Stage 4,biathlon,Germany,2026
 2025–26 Biathlon World Cup – Stage 5,biathlon,Germany,2026
 2025–26 Biathlon World Cup – Stage 6,biathlon,Czech Republic,2026
@@ -78,7 +76,6 @@ Grand Prix of Portugal – Sporting (March 2026),sporting clays,Portugal,2026
 2026 World Athletics Indoor Championships – Women's 1500 metres,athletics,Poland,2026
 2025 Pan American Aquatics U15 Water Polo Championships – Women's tournament,water polo,Brazil,2025
 2025 World Para Archery Championships – Men's doubles compound open,para archery,South Korea,2025
-Q136621021,athletics,United States,2025
 2025 FIVB Beach Volleyball U18 World Championships – Women's tournament,beach volleyball,Qatar,2025
 2025–26 Biathlon World Cup – Stage 1,biathlon,Sweden,2025
 2025–26 Biathlon World Cup – Stage 2,biathlon,Austria,2025
@@ -96,19 +93,8 @@ Individual dressage at the 2025 European Dressage Championships,dressage,France,
 2024–25 Biathlon World Cup – Stage 9,biathlon,Norway,2025
 2024 Men's Hockey Junior Africa Cup,field hockey,Namibia,2025
 2024 Women's Hockey Junior Africa Cup,field hockey,Namibia,2025
-Q130485599,basketball,Japan,2025
 2025 World Boxing Championships,boxing,United Kingdom,2025
 2025 Grand Prix Zagreb Open,wrestling,Croatia,2025
-Q133843970,athletics,Jamaica,2025
-Q133844011,athletics,Jamaica,2025
-Q133844019,athletics,Jamaica,2025
-Q133844031,athletics,Jamaica,2025
-Q133844061,athletics,Jamaica,2025
-Q133847988,athletics,Jamaica,2025
-Q133847996,athletics,Jamaica,2025
-Q133848018,athletics,Jamaica,2025
-Q133848023,athletics,Jamaica,2025
-Q133848068,athletics,Jamaica,2025
 2025 Canadian Olympic Curling Pre-Trials,curling,Canada,2025
 diving at the 2025 World Aquatics Championships,diving,Singapore,2025
 2025–26 Coppa Italia,association football,Italy,2025
@@ -117,7 +103,6 @@ Diving at the 2025 World Aquatics Championships – Men's 3 metre springboard,di
 Diving at the 2025 World Aquatics Championships – Men's 10 metre platform,diving,Singapore,2025
 Diving at the 2025 World Aquatics Championships – Women's 3 metre springboard,diving,Singapore,2025
 Swimming at the 2025 World Aquatics Championships – Men's 50 metre freestyle,competitive swimming,Singapore,2025
-Q135747791,athletics,Finland,2025
 2024 Hungarian Grand Prix,Formula One,Hungary,2024
 athletics at the 2024 Summer Olympics – women's 100 metres hurdles,athletics,France,2024
 2023–24 Biathlon World Cup – Stage 4,biathlon,Germany,2024
@@ -150,16 +135,13 @@ diving at the 2024 World Aquatics Championships – women's 3 metre springboard,
 2024 European Athletics Championships – men's hammer throw,athletics,Italy,2024
 2024 European Athletics Championships – Men's decathlon,athletics,Italy,2024
 Artistic swimming at the 2024 European Aquatics Championships,synchronized swimming,Serbia,2024
-Q127270586,athletics,France,2024
 2024 World Aquatics Men's U18 Water Polo Championships,water polo,Argentina,2024
 2024 U20 World Wrestling Championships – Women's freestyle,wrestling,Spain,2024
 2024 U20 World Wrestling Championships – Men's Greco-Roman,wrestling,Spain,2024
-Q111458258,biathlon,Sweden,2023
 2022–23 Biathlon World Cup – Stage 4,biathlon,Slovenia,2023
 2022–23 Biathlon World Cup – Stage 5,biathlon,Germany,2023
 2022–23 Biathlon World Cup – Stage 6,biathlon,Italy,2023
 2022–23 Biathlon World Cup – Stage 7,biathlon,Czech Republic,2023
-Q111458340,biathlon,Norway,2023
 2023 World Athletics Championships – men's 4 × 100 metres relay,athletics,Hungary,2023
 2023 Brazilian Rhythmic Gymnastics Championship,rhythmic gymnastics,Brazil,2023
 men's volleyball at the 2023 Central American and Caribbean Games,volleyball,El Salvador,2023
@@ -221,7 +203,6 @@ racquetball at the 2023 Pan American Games – women's singles,racquetball,Chile
 2023–24 Biathlon World Cup – Stage 1,biathlon,Sweden,2023
 2023–24 Biathlon World Cup – Stage 2,biathlon,Austria,2023
 2023–24 Biathlon World Cup – Stage 3,biathlon,Switzerland,2023
-Q125616232,volleyball,Netherlands,2023
 2021–22 Biathlon World Cup – Stage 7,biathlon,Italy,2022
 2021–22 Biathlon World Cup – Stage 9,biathlon,Estonia,2022
 2021–22 Biathlon World Cup – Stage 10,biathlon,Norway,2022
@@ -263,8 +244,6 @@ figure skating at the 2022 European Youth Olympic Winter Festival - girls,ladies
 2022 European Athletics Championships – women's long jump,athletics,Germany,2022
 2022 European Athletics Championships – women's javelin throw,athletics,Germany,2022
 2022 World Wrestling Championships – Men's Greco-Roman 87 kg,amateur wrestling,Serbia,2022
-Q113994966,competitive swimming,Netherlands,2022
-Q114044340,basketball,Italy,2022
 volleyball at the 2022 European Youth Summer Olympic Festival – girls' tournament,volleyball,Slovakia,2022
 2022 U.S. Figure Skating Championships - senior men's singles,figure skating,United States,2022
 2022 World Figure Skating Championships - men's singles,men's singles,France,2022
@@ -316,7 +295,6 @@ volleyball at the 2022 European Youth Summer Olympic Festival – girls' tournam
 2020–21 Biathlon World Cup – Stage 8,biathlon,Czech Republic,2021
 2020–21 Biathlon World Cup – Stage 10,biathlon,Sweden,2021
 2020–21 Biathlon World Cup – Stage 9,biathlon,Czech Republic,2021
-Q106731137,diving,Japan,2021
 diving at the 2020 European Aquatics Championships,diving,Hungary,2021
 artistic swimming at the 2020 European Aquatics Championships – solo free routine,synchronized swimming,Hungary,2021
 artistic swimming at the 2020 European Aquatics Championships – duet free routine,synchronized swimming,Hungary,2021
@@ -332,8 +310,6 @@ Swimming at the 2020 European Aquatics Championships – Men's 100 metre butterf
 2021 European Athletics U23 Championships – women's triple jump,athletics,Estonia,2021
 2021 World Athletics U20 Championships – Men's 110 metres hurdles,athletics,Kenya,2021
 2020–21 ISU Speed Skating World Cup – World Cup 1 – women's mass start,long track speed skating,Netherlands,2021
-Q108560764,basketball,Italy,2021
-Q108730883,basketball,Italy,2021
 2019–20 Biathlon World Cup – Stage 4,biathlon,Germany,2020
 2019–20 Biathlon World Cup – Stage 5,biathlon,Germany,2020
 2019–20 Biathlon World Cup – Stage 6,biathlon,Slovenia,2020
@@ -383,7 +359,6 @@ Dragon Trophy 2020 - senior ladies' singles,ladies' singles,Slovenia,2020
 2020 Egna Dance Trophy - senior ice dancing,ice dance,Italy,2020
 2020 Sofia Trophy - senior men's singles,men's singles,Bulgaria,2020
 2020 Sofia Trophy - senior ladies' singles,ladies' singles,Bulgaria,2020
-Q108743767,basketball,Italy,2020
 2021 KNSB Dutch Single Distance Championships – Women's 1500 m,speed skating,Netherlands,2020
 2021 KNSB Dutch Single Distance Championships – Women's 3000 m,speed skating,Netherlands,2020
 2021 KNSB Dutch Single Distance Championships – Women's 5000 m,speed skating,Netherlands,2020
@@ -398,14 +373,11 @@ Q108743767,basketball,Italy,2020
 2021 KNSB Dutch Single Distance Championships – Men's 1500 m,speed skating,Netherlands,2020
 2021 KNSB Dutch Single Distance Championships – Men's 1000 m,speed skating,Netherlands,2020
 2021 KNSB Dutch Single Distance Championships – Men's 500 m,speed skating,Netherlands,2020
-Q106374260,basketball,Italy,2020
 "NC Final Session – mixed pair, the 2019-2020 Edition",contract bridge,Romania,2020
 "NC Qualifying Session – mixed pair, the 2019-2020 Edition",contract bridge,Romania,2020
 3-Cushion World Cup 2019-7,carom billiards,Egypt,2019
-Q71017467,carom billiards,South Korea,2019
 3-Cushion World Cup 2019-5,carom billiards,Netherlands,2019
 2019 Lausanne Billard Masters,three-cushion billiards,Switzerland,2019
-Q71550356,three-cushion billiards,Germany,2019
 volleyball at the 2019 Military World Games – women's tournament,volleyball,Brazil,2019
 volleyball at the 2019 Military World Games – men's tournament,volleyball,Brazil,2019
 2019 CS Finlandia Trophy - men's singles,men's singles,Finland,2019
@@ -510,7 +482,6 @@ figure skating at the 2019 European Youth Olympic Winter Festival - girls,ladies
 2019 European Figure Skating Championships - ladies' singles,ladies' singles,Belarus,2019
 2019 European Figure Skating Championships - pair skating,pair skating,Belarus,2019
 2019 European Figure Skating Championships - ice dancing,ice dance,Belarus,2019
-Q60847510,three-cushion billiards,Turkey,2019
 2019 United States Figure Skating Championships - senior men's singles,men's singles,United States,2019
 2019 United States Figure Skating Championships - senior ladies' singles,ladies' singles,United States,2019
 2019 United States Figure Skating Championships - senior pair skating,pair skating,United States,2019
@@ -634,8 +605,6 @@ basketball at the 2019 European Games – men's tournament,basketball,Belarus,20
 basketball at the 2019 European Games – women's tournament,basketball,Belarus,2019
 water polo at the 2019 Summer Universiade – men's tournament,water polo,Italy,2019
 handball at the 2019 Pan American Games – women's tournament,handball,Peru,2019
-Q65234022,carom billiards,Belgium,2019
-Q65234026,three-cushion billiards,Portugal,2019
 2019–20 ISU Speed Skating World Cup – World Cup 1,long track speed skating,Belarus,2019
 2019–20 ISU Speed Skating World Cup – World Cup 2,long track speed skating,Poland,2019
 2019–20 ISU Speed Skating World Cup – World Cup 3,long track speed skating,Kazakhstan,2019
@@ -755,7 +724,6 @@ water polo at the 2019 Southeast Asian Games – women's tournament,water polo,P
 2019 World Figure Skating Championships - ladies' singles,ladies' singles,Japan,2019
 2019 World Figure Skating Championships - pair skating,pair skating,Japan,2019
 2019 World Figure Skating Championships - ice dancing,ice dance,Japan,2019
-Q62647289,three-cushion billiards,Vietnam,2019
 2019 Egna Spring Trophy - senior men's singles,men's singles,Italy,2019
 2019 Egna Spring Trophy - senior ladies' singles,ladies' singles,Italy,2019
 2019 Egna Spring Trophy - senior pair skating,pair skating,Italy,2019
@@ -788,7 +756,6 @@ men's volleyball at the 2018 Central American and Caribbean Games,volleyball,Col
 2018 CS Autumn Classic - ice dance,ice dance,Canada,2018
 2018 CS Autumn Classic - men's singles,men's singles,Canada,2018
 2018 CS Ondrej Nepela Trophy - ice dance,ice dance,Slovakia,2018
-Q56706604,baseball,Netherlands,2018
 2018 CS Nebelhorn Trophy - ladies' singles,ladies' singles,Germany,2018
 2018 CS Nebelhorn Trophy - men's singles,men's singles,Germany,2018
 2018 CS Nebelhorn Trophy - pairs,pair skating,Germany,2018
@@ -832,10 +799,7 @@ Q56706604,baseball,Netherlands,2018
 2018 Minsk-Arena Ice Star - junior ladies' singles,ladies' singles,Belarus,2018
 2018 Minsk-Arena Ice Star - junior men's singles,men's singles,Belarus,2018
 2018 Minsk-Arena Ice Star - junior pairs,pair skating,Belarus,2018
-Q57550064,short-track speed skating,Italy,2018
 Alta Valtellina Trophy 2018 - Women's Junior A - 500m,short-track speed skating,Italy,2018
-Q57550867,short-track speed skating,Italy,2018
-Q57551046,short-track speed skating,Italy,2018
 Alta Valtellina Trophy 2018 - Women's Junior A - 1000m,short-track speed skating,Italy,2018
 2018 Skate Canada International - men's singles,men's singles,Canada,2018
 2018 Skate Canada International - ladies' singles,ladies' singles,Canada,2018
@@ -1001,7 +965,6 @@ Bosphorus Istanbul Cup 2018 - senior ice dance,ice dance,Turkey,2018
 2018 Latvian Figure Skating Championships - senior ladies' singles,ladies' singles,Latvia,2018
 2018-2019 Slovenian Figure Skating Championships - senior ladies' singles,ladies' singles,Slovenia,2018
 2018 Survival 3C Masters 3,three-cushion billiards,South Korea,2018
-Q60846990,carom billiards,Egypt,2018
 2018 European Figure Skating Championships - men's singles,men's singles,Russia,2018
 2018 European Figure Skating Championships - ladies' singles,ladies' singles,Russia,2018
 2018 European Figure Skating Championships - pair skating,pair skating,Russia,2018
@@ -1086,14 +1049,10 @@ Helsinki City Run,long-distance running,Finland,2018
 2017 World Junior Figure Skating Championships - ice dancing,ice dance,Taiwan,2017
 figure skating at the 2017 Winter Universiade – men's singles,men's singles,Kazakhstan,2017
 figure skating at the 2017 Winter Universiade – ladies' singles,ladies' singles,Kazakhstan,2017
-Q28820221,cue sports,Turkey,2017
 3-Cushion World Cup 2017-7,cue sports,Egypt,2017
 figure skating at the 2017 Winter Universiade – ice dance,ice dance,Kazakhstan,2017
 European Three-Cushion Championship 2017,cue sports,Germany,2017
-Q30074371,darts,Germany,2017
 2016–17 Men's FIH Hockey World League Final,field hockey,India,2017
-Q30898714,basketball,San Marino,2017
-Q30898715,basketball,San Marino,2017
 figure skating at the 2017 Asian Winter Games – women's singles,ladies' singles,Japan,2017
 figure skating at the 2017 Asian Winter Games – ice dancing,ice dance,Japan,2017
 figure skating at the 2017 Asian Winter Games – men's singles,men's singles,Japan,2017
@@ -1172,8 +1131,6 @@ athletics at the 2016 Summer Olympics – women's 3000 metres steeplechase,athle
 2016 AFL finals series,Australian rules football,Australia,2016
 3-Cushion World Cup 2016-7,carom billiards,Egypt,2016
 2016–17 ISU Speed Skating World Cup – World Cup 2,long track speed skating,Japan,2016
-Q25380640,cue sports,Turkey,2016
-Q29919153,volleyball,France,2016
 2016 Austrian Athletics Championships,athletics,Austria,2016
 2016 IAAF World U20 Championships – men's 1500 metres,athletics,Poland,2016
 "2017 KNSB Dutch Single Distance Championships – Men's 10,000 m",speed skating,Netherlands,2016
@@ -1237,21 +1194,16 @@ figure skating at the 2015 Winter Universiade – pairs,pair skating,Spain,2015
 2015 Skate America - ladies' singles,ladies' singles,United States,2015
 2015 Skate America - pair skating,pair skating,United States,2015
 2015 Skate America - ice dancing,ice dance,United States,2015
-Q21040144,cue sports,Turkey,2015
 2015–16 ISU Speed Skating World Cup – World Cup 2,long track speed skating,United States,2015
 table tennis at the 2015 African Games – mixed doubles,table tennis,Republic of the Congo,2015
 2015 NRW Trophy - ice dance,ice dance,Germany,2015
 2015 Austrian Athletics Championships,athletics,Austria,2015
 "2016 KNSB Dutch Single Distance Championships – Men's 10,000 m",speed skating,Netherlands,2015
-Q88984085,finswimming,Italy,2015
 2016 KNSB Dutch Single Distance Championships – Men's 1500 m,speed skating,Netherlands,2015
 2016 KNSB Dutch Single Distance Championships – Men's 5000 m,speed skating,Netherlands,2015
 2016 KNSB Dutch Single Distance Championships – Men's 1000 m,speed skating,Netherlands,2015
 2016 KNSB Dutch Single Distance Championships – Men's 500 m,speed skating,Netherlands,2015
 37-th Brașov International Bridge Festival,contract bridge,Romania,2015
-Q15806641,carom billiards,Turkey,2014
-Q15906196,carom billiards,Egypt,2014
-Q15919249,volleyball,Chile,2014
 2014 European Athletics Championships – women's shot put,athletics,Switzerland,2014
 2014 World Figure Skating Championships - pair skating,pair skating,Japan,2014
 2014–15 ISU Speed Skating World Cup – World Cup 1,long track speed skating,Japan,2014
@@ -1353,13 +1305,10 @@ swimming at the 2013 World Aquatics Championships – women's 4 × 100 metre med
 swimming at the 2013 World Aquatics Championships – women's 400 metre individual medley,competitive swimming,Spain,2013
 2013 World Championships in Athletics – women's heptathlon,athletics,Russia,2013
 handball at the 2013 Asian Youth Games – boys' tournament,handball,People's Republic of China,2013
-Q15109863,carom billiards,Turkey,2013
-Q15234773,carom billiards,Egypt,2013
 figure skating at the 2013 Winter Universiade – men's singles,men's singles,Italy,2013
 figure skating at the 2013 Winter Universiade – pairs,pair skating,Italy,2013
 figure skating at the 2013 Winter Universiade – ice dance,ice dance,Italy,2013
 figure skating at the 2013 Winter Universiade – ladies' singles,ladies' singles,Italy,2013
-Q15806639,carom billiards,Greece,2013
 2013 UCI Track Cycling World Championships – women's sprint,track cycling,Belarus,2013
 FIS Snowboarding World Championships 2013 – men's snowboard cross,boardercross,Canada,2013
 2013 European Athletics Indoor Championships – women's 60 metres,athletics,Sweden,2013
@@ -1412,11 +1361,8 @@ FIS Snowboarding World Championships 2013 – men's snowboard cross,boardercross
 35-th Brașov International Bridge Festival,contract bridge,Romania,2013
 2013 US Open of Surfing,surfing,United States,2013
 athletics at the 2012 Summer Olympics – men's 800 metres,athletics,United Kingdom,2012
-Q1257287,carom billiards,Turkey,2012
-Q1257291,carom billiards,Egypt,2012
 2012–13 ISU Speed Skating World Cup – World Cup 5,long track speed skating,People's Republic of China,2012
 2012–13 ISU Speed Skating World Cup – World Cup 3,long track speed skating,Kazakhstan,2012
-Q162575,carom billiards,Germany,2012
 Players Tour Championship 2012/2013 – Event 4,snooker,United Kingdom,2012
 German Grand Prix 2012,carom billiards,Germany,2012
 athletics at the 2012 Summer Olympics – men's 1500 metres,athletics,United Kingdom,2012
@@ -1473,10 +1419,6 @@ athletics at the 2012 Summer Olympics – women's 3000 metres steeplechase,athle
 2012 NRW Trophy - ice dance,ice dance,Germany,2012
 27th Mamaia International Bridge Festival,contract bridge,Romania,2012
 2012 KIA Cold Hawaii PWA World Cup,Wave,Denmark,2012
-Q16056000,carom billiards,Portugal,2011
-Q1170320,carom billiards,Austria,2011
-Q1257282,carom billiards,Turkey,2011
-Q1257288,carom billiards,Egypt,2011
 volleyball at the 2011 Pan American Games – women's tournament,volleyball,Mexico,2011
 2011–12 ISU Speed Skating World Cup – World Cup 2,long track speed skating,Kazakhstan,2011
 2011–12 ISU Speed Skating World Cup – World Cup 2,long track speed skating,Kazakhstan,2011
@@ -1487,8 +1429,6 @@ figure skating at the 2011 Winter Universiade – men's singles,men's singles,Tu
 figure skating at the 2011 Winter Universiade – pair skating,pair skating,Turkey,2011
 figure skating at the 2011 Winter Universiade – ice dancing,ice dance,Turkey,2011
 football at the 2011 Military World Games – men's tournament,association football,Brazil,2011
-Q10392337,volleyball,Brazil,2011
-Q10392338,volleyball,Brazil,2011
 2011 NRW Trophy - ice dance,ice dance,Germany,2011
 volleyball at the 2011 Summer Universiade – women's tournament,volleyball,People's Republic of China,2011
 2011 Trophée Eric Bompard - men's singles,men's singles,France,2011
@@ -1536,8 +1476,6 @@ figure skating at the 2011 Asian Winter Games – women's singles,ladies' single
 2011 Skate America - ladies' singles,ladies' singles,United States,2011
 2011 Skate America - pair skating,pair skating,United States,2011
 Red Bull Rockets Gran Canaria 2011,Wave,Spain,2011
-Q1257273,carom billiards,Egypt,2010
-Q1257277,carom billiards,Turkey,2010
 2010–11 ISU Speed Skating World Cup – World Cup 3,long track speed skating,Norway,2010
 2010–11 ISU Speed Skating World Cup – World Cup 3,long track speed skating,Norway,2010
 2009–10 ISU Speed Skating World Cup – World Cup 6,long track speed skating,Germany,2010
@@ -1586,8 +1524,6 @@ artistic roller skating at the 2010 Asian Games – pairs,artistic roller skatin
 2010 NHK Trophy - pair skating,pair skating,Japan,2010
 2010 NHK Trophy - ice dancing,ice dance,Japan,2010
 2010 Gran Canaria PWA Grand Prix,Wave,Spain,2010
-Q1257266,carom billiards,Turkey,2009
-Q1257269,carom billiards,Egypt,2009
 swimming at the 2009 World Aquatics Championships – men's 4 x 100 metre freestyle relay,competitive swimming,Italy,2009
 2009–10 ISU Speed Skating World Cup – World Cup 2,long track speed skating,Netherlands,2009
 2008–09 ISU Speed Skating World Cup – Competition 8,long track speed skating,Netherlands,2009
@@ -1648,8 +1584,6 @@ figure skating at the 2009 Winter Universiade – ice dance,ice dance,People's R
 2009 Trophée Eric Bompard - pair skating,pair skating,France,2009
 2009 Trophée Eric Bompard - ice dancing,ice dance,France,2009
 2009 Judo Grand Prix Tunis,judo,Tunisia,2009
-Q1257256,carom billiards,Egypt,2008
-Q1257262,carom billiards,Spain,2008
 2008 NRW Trophy - senior ice dance,ice dance,Germany,2008
 2008 Trophée Eric Bompard - men's singles,men's singles,France,2008
 2008 NHK Trophy - men's singles,men's singles,Japan,2008
@@ -1693,7 +1627,6 @@ diving at the 2008 European Aquatics Championships – men's 1 metre springboard
 2008–2009 Grand Prix of Figure Skating Final - pair skating,pair skating,South Korea,2008
 2008–2009 Grand Prix of Figure Skating Final - ice dancing,ice dance,South Korea,2008
 2008 Pan American Wushu Championships,wushu,Brazil,2008
-Q16003004,carom billiards,France,2007
 volleyball at the 2007 Pan American Games – women's tournament,volleyball,Brazil,2007
 football at the 2007 Pan American Games – men's tournament,association football,Brazil,2007
 volleyball at the 2007 Pan American Games – men's tournament,volleyball,Brazil,2007
@@ -1737,7 +1670,6 @@ figure skating at the 2007 Asian Winter Games – pairs,pair skating,People's Re
 2007 NHK Trophy - ice dancing,ice dance,Japan,2007
 2007 NRW Trophy - senior men's singles,men's singles,Germany,2007
 2007 NRW Trophy - senior ladies' singles,ladies' singles,Germany,2007
-Q27897213,cue sports,Turkey,2007
 figure skating at the 2007 Winter Universiade - men's singles,men's singles,Italy,2007
 figure skating at the 2007 Winter Universiade - ladies' singles,ladies' singles,Italy,2007
 figure skating at the 2007 Winter Universiade - pair skating,pair skating,Italy,2007
@@ -1779,7 +1711,6 @@ women's volleyball at the 2006 Central American and Caribbean Games,volleyball,C
 2006 NHK Trophy - ladies' singles,ladies' singles,Japan,2006
 2006 NHK Trophy - pair skating,pair skating,Japan,2006
 2006 NHK Trophy - ice dancing,ice dance,Japan,2006
-Q27897200,cue sports,Turkey,2006
 2005–06 French Basketball Cup,basketball,France,2006
 2006–2007 Grand Prix of Figure Skating Final - ladies' singles,ladies' singles,Russia,2006
 2006–2007 Grand Prix of Figure Skating Final - pair skating,pair skating,Russia,2006
@@ -1820,7 +1751,6 @@ Q27897200,cue sports,Turkey,2006
 2005 NHK Trophy - ladies' singles,ladies' singles,Japan,2005
 2005 NHK Trophy - pair skating,pair skating,Japan,2005
 2005 NHK Trophy - ice dancing,ice dance,Japan,2005
-Q27897169,cue sports,Turkey,2005
 2005 French Basketball Cup,basketball,France,2005
 2005–2006 Grand Prix of Figure Skating Final - ladies' singles,ladies' singles,Japan,2005
 2005–2006 Grand Prix of Figure Skating Final - pair skating,pair skating,Japan,2005
@@ -1856,7 +1786,6 @@ Mare Nostrum,competitive swimming,Monaco,2004
 2004 Cup of Russia - ladies' singles,ladies' singles,Russia,2004
 2004 Cup of Russia - pair skating,pair skating,Russia,2004
 2004 Cup of Russia - ice dancing,ice dance,Russia,2004
-Q27897085,cue sports,Spain,2004
 2004–2005 Grand Prix of Figure Skating Final - ladies' singles,ladies' singles,People's Republic of China,2004
 2004–2005 Grand Prix of Figure Skating Final - pair skating,pair skating,People's Republic of China,2004
 2004–2005 Grand Prix of Figure Skating Final - ice dancing,ice dance,People's Republic of China,2004
@@ -1887,9 +1816,6 @@ football at the 2003 Pan American Games – women's tournament,association footb
 Marathon for a Drug-Free Hungary,running,Hungary,2002
 men's volleyball at the 2002 Central American and Caribbean Games,volleyball,El Salvador,2002
 2001 World Championships in Athletics – women's heptathlon,athletics,Canada,2001
-Q25387058,cue sports,United States,2001
-Q25387113,cue sports,Turkey,2001
-Q25387307,cue sports,Spain,2001
 2000 European Athletics Indoor Championships – men's heptathlon,athletics,Belgium,2000
 Alpes Isère Tour,Race stage,Rhône-Alpes,2000
 Australia World Cup,Classic cycle races,"Australia, Canberra, Geelong, Snowy Mountains, Sydney",2000
